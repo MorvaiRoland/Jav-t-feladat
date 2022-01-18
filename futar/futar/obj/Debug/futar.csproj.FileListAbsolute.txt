@@ -1,0 +1,9 @@
+C:\Users\morva\Desktop\futar\futar\bin\Debug\tavok.txt
+C:\Users\morva\Desktop\futar\futar\bin\Debug\futar.exe.config
+C:\Users\morva\Desktop\futar\futar\bin\Debug\futar.exe
+C:\Users\morva\Desktop\futar\futar\bin\Debug\futar.pdb
+C:\Users\morva\Desktop\futar\futar\obj\Debug\futar.csproj.AssemblyReference.cache
+C:\Users\morva\Desktop\futar\futar\obj\Debug\futar.csproj.SuggestedBindingRedirects.cache
+C:\Users\morva\Desktop\futar\futar\obj\Debug\futar.csproj.CoreCompileInputs.cache
+C:\Users\morva\Desktop\futar\futar\obj\Debug\futar.exe
+C:\Users\morva\Desktop\futar\futar\obj\Debug\futar.pdb
